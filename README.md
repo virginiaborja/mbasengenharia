@@ -1,4 +1,4 @@
-# MBAS Engenharia 🏗️
+# MBAS Engenharia
 
 Professional website for **MBAS Engenharia**, the civil-engineering practice of **Márcia Barbosa** — a civil engineer (UFMG) with 30+ years of experience managing and executing industrial, commercial, and residential construction projects in Brazil. The site was designed and developed by [Virginia Borja](https://virginiaborja.github.io/webdeveloper/) as a client project.
 
